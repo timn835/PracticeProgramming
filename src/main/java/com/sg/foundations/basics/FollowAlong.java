@@ -31,7 +31,7 @@ public class FollowAlong {
                 System.out.println("Could not parse your input as decimal, try again");
                 isValid = false;
             }
-            
+
         } while(!isValid);
         do {
             System.out.println("Please enter second input");

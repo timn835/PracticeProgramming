@@ -39,6 +39,7 @@ public class MiniMadLibs {
             answers[i] = temp;
             i++;
         }
+        
         System.out.println(
                 answers[0] + ": the " +
                 answers[1] + " frontier. These are the voyages of the starship " +
